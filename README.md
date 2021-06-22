@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SubitDhakal
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate with other developers
+- 💞️ I’m looking to work with Game Development Company
 - 📫 How to reach me subitdhakal1999@gmail.com
 
 <!---
